@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SushmaDevadiga/ecommerce-site.git/static/css/main.e6c13ad2.css",
+    "main.js": "/SushmaDevadiga/ecommerce-site.git/static/js/main.32aeecfc.js",
+    "index.html": "/SushmaDevadiga/ecommerce-site.git/index.html",
+    "main.e6c13ad2.css.map": "/SushmaDevadiga/ecommerce-site.git/static/css/main.e6c13ad2.css.map",
+    "main.32aeecfc.js.map": "/SushmaDevadiga/ecommerce-site.git/static/js/main.32aeecfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.32aeecfc.js"
+  ]
+}
